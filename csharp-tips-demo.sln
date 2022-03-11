@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo 07 OCP", "Demo 07 OCP\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo 08 Out In Ref", "Demo 08 Out In Ref\Demo 08 Out In Ref.csproj", "{A1BCD417-7C12-4D2E-88C6-AEDD030E2C7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo 09 DebuggerDisplay Attribute", "Demo 09 DebuggerDisplay Attribute\Demo 09 DebuggerDisplay Attribute.csproj", "{D0AD40AF-D16E-4096-9531-7186CE2FD701}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{A1BCD417-7C12-4D2E-88C6-AEDD030E2C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1BCD417-7C12-4D2E-88C6-AEDD030E2C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1BCD417-7C12-4D2E-88C6-AEDD030E2C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0AD40AF-D16E-4096-9531-7186CE2FD701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0AD40AF-D16E-4096-9531-7186CE2FD701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0AD40AF-D16E-4096-9531-7186CE2FD701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0AD40AF-D16E-4096-9531-7186CE2FD701}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
