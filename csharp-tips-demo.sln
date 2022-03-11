@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo 04 Conditional", "Demo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo 05 DateOnly", "Demo 05 DateOnly\Demo 05 DateOnly.csproj", "{77C6D77E-FF95-418F-B372-19723C2BF55D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo 06 Pattern Matching", "Demo 06 Pattern Matching\Demo 06 Pattern Matching.csproj", "{941E3595-3CE5-44CB-9E1F-24F96904C67D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{77C6D77E-FF95-418F-B372-19723C2BF55D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77C6D77E-FF95-418F-B372-19723C2BF55D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77C6D77E-FF95-418F-B372-19723C2BF55D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{941E3595-3CE5-44CB-9E1F-24F96904C67D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941E3595-3CE5-44CB-9E1F-24F96904C67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941E3595-3CE5-44CB-9E1F-24F96904C67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941E3595-3CE5-44CB-9E1F-24F96904C67D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
