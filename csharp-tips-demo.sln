@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo 01 Records", "Demo 01 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo 02 Init", "Demo 02 Init\Demo 02 Init.csproj", "{509F046D-BA17-41EE-9372-0E1F3DE270DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo 03 Lowering Async", "Demo 03 Lowering Async\Demo 03 Lowering Async.csproj", "{1DAEC20C-3D98-4A0B-8FC7-A7A5E409A512}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{509F046D-BA17-41EE-9372-0E1F3DE270DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{509F046D-BA17-41EE-9372-0E1F3DE270DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{509F046D-BA17-41EE-9372-0E1F3DE270DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DAEC20C-3D98-4A0B-8FC7-A7A5E409A512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DAEC20C-3D98-4A0B-8FC7-A7A5E409A512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DAEC20C-3D98-4A0B-8FC7-A7A5E409A512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DAEC20C-3D98-4A0B-8FC7-A7A5E409A512}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
