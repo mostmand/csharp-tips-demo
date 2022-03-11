@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo 03 Lowering Async", "D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo 04 Conditional", "Demo 04 Conditional\Demo 04 Conditional.csproj", "{C47D3BF1-9B5F-40DF-9F7D-23CB13730D55}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo 05 DateOnly", "Demo 05 DateOnly\Demo 05 DateOnly.csproj", "{77C6D77E-FF95-418F-B372-19723C2BF55D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{C47D3BF1-9B5F-40DF-9F7D-23CB13730D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C47D3BF1-9B5F-40DF-9F7D-23CB13730D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C47D3BF1-9B5F-40DF-9F7D-23CB13730D55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77C6D77E-FF95-418F-B372-19723C2BF55D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C6D77E-FF95-418F-B372-19723C2BF55D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C6D77E-FF95-418F-B372-19723C2BF55D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C6D77E-FF95-418F-B372-19723C2BF55D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
