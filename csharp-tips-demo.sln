@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo 05 DateOnly", "Demo 05
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo 06 Pattern Matching", "Demo 06 Pattern Matching\Demo 06 Pattern Matching.csproj", "{941E3595-3CE5-44CB-9E1F-24F96904C67D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo 07 OCP", "Demo 07 OCP\Demo 07 OCP.csproj", "{107659E6-E2D2-48DF-BC08-71A454FEC47C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{941E3595-3CE5-44CB-9E1F-24F96904C67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{941E3595-3CE5-44CB-9E1F-24F96904C67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{941E3595-3CE5-44CB-9E1F-24F96904C67D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{107659E6-E2D2-48DF-BC08-71A454FEC47C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{107659E6-E2D2-48DF-BC08-71A454FEC47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{107659E6-E2D2-48DF-BC08-71A454FEC47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{107659E6-E2D2-48DF-BC08-71A454FEC47C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
