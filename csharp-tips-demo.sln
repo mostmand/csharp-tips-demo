@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo 12 ArrayPool.Shared", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo 13 Enum Performance", "Demo 13 Enum Performance\Demo 13 Enum Performance.csproj", "{AB54A6F2-C80F-4120-AD52-32D23DF20B4C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo 14 StronglyTypedId", "Demo 14 StronglyTypedId\Demo 14 StronglyTypedId.csproj", "{50897572-6889-4EFB-9D83-F8AF9D444178}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{AB54A6F2-C80F-4120-AD52-32D23DF20B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB54A6F2-C80F-4120-AD52-32D23DF20B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB54A6F2-C80F-4120-AD52-32D23DF20B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50897572-6889-4EFB-9D83-F8AF9D444178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50897572-6889-4EFB-9D83-F8AF9D444178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50897572-6889-4EFB-9D83-F8AF9D444178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50897572-6889-4EFB-9D83-F8AF9D444178}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
