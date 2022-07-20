@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo 10 StringBuilder", "De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo 11 Empty Collections", "Demo 11 Empty Collections\Demo 11 Empty Collections.csproj", "{ABC27B77-0F43-4ADC-B06E-34DB1DCEAFE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo 12 ArrayPool.Shared", "Demo 12 ArrayPool.Shared\Demo 12 ArrayPool.Shared.csproj", "{8020CE2A-76F9-4EFC-8952-A89D0CD28054}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{ABC27B77-0F43-4ADC-B06E-34DB1DCEAFE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABC27B77-0F43-4ADC-B06E-34DB1DCEAFE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABC27B77-0F43-4ADC-B06E-34DB1DCEAFE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8020CE2A-76F9-4EFC-8952-A89D0CD28054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8020CE2A-76F9-4EFC-8952-A89D0CD28054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8020CE2A-76F9-4EFC-8952-A89D0CD28054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8020CE2A-76F9-4EFC-8952-A89D0CD28054}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
