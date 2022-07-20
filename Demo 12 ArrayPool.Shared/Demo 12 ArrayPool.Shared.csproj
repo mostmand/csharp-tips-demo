@@ -1,8 +1,9 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
+        <OutputType>Exe</OutputType>
         <TargetFramework>net6.0</TargetFramework>
-        <RootNamespace>Demo_11_Empty_Collections</RootNamespace>
+        <RootNamespace>Demo_12_ArrayPool.Shared</RootNamespace>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
     </PropertyGroup>
@@ -10,5 +11,12 @@
     <ItemGroup>
         <PackageReference Include="BenchmarkDotNet" Version="0.13.1" />
     </ItemGroup>
-    
+
+    <ItemGroup>
+      <None Remove="Resources\content.txt" />
+      <Content Include="Resources\content.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+    </ItemGroup>
+
 </Project>
