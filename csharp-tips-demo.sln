@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo 09 DebuggerDisplay Att
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo 10 StringBuilder", "Demo 10 StringBuilder\Demo 10 StringBuilder.csproj", "{3DC237D9-3BD7-45B2-A601-0C6E661B5492}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo 11 Empty Collections", "Demo 11 Empty Collections\Demo 11 Empty Collections.csproj", "{ABC27B77-0F43-4ADC-B06E-34DB1DCEAFE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{3DC237D9-3BD7-45B2-A601-0C6E661B5492}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DC237D9-3BD7-45B2-A601-0C6E661B5492}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DC237D9-3BD7-45B2-A601-0C6E661B5492}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABC27B77-0F43-4ADC-B06E-34DB1DCEAFE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC27B77-0F43-4ADC-B06E-34DB1DCEAFE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC27B77-0F43-4ADC-B06E-34DB1DCEAFE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC27B77-0F43-4ADC-B06E-34DB1DCEAFE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
